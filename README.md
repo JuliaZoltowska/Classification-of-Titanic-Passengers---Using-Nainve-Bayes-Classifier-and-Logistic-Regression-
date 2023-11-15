@@ -8,8 +8,6 @@ The project explores and analyzes the Titanic dataset, aiming to predict whether
 
 ### Prerequisites
 
-- Python
-- Google Colab or a Jupyter Notebook environment
 - Required Python libraries:
 - Pandas,
 - NumPy,
