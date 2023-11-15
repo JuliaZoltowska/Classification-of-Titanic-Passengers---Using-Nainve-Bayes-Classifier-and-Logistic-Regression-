@@ -21,11 +21,3 @@ To run this project, ensure you have access to Google Colab or a similar environ
 - Seaborn,
 - Matplotlib
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-
